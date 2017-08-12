@@ -1,0 +1,23 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "testing responsive bot",
+  "main": "index.js",
+  "dependencies": {
+    "claudia-api-builder": "^2.5.1",
+    "claudia-bot-builder": "^2.15.0",
+    "huh": "^2.0.1",
+    "now": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "deepak.rayathurai",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepakr6242"
+  }
+}
